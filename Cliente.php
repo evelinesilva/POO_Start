@@ -1,6 +1,6 @@
 <?php
   Class Cliente{
-    var $nome;
-    var $codigo;
+    public $nome;
+    public $codigo;
   }
  ?>
